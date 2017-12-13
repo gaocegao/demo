@@ -1,8 +1,9 @@
-1.°²×°Erlang
-2.ÅäÖÃERLANG_HOME  
-3.°²×°RabbitMQ
-4.¼¤»î²å¼ş "C:\Program Files\RabbitMQ Server\rabbitmq_server-3.6.5\sbin\rabbitmq-plugins.bat" enable rabbitmq_management
-5.ÖØÆô·şÎñ  net stop RabbitMQ && net start RabbitMQ
-6.²éÑ¯ÓÃ»§  rabbitmqctl.bat list_users
-7.´´½¨ÓÃ»§  rabbitmqctl.bat add_user username pwd
-8.ÊÚÈ¨ÓÃ»§  rabbitmqctl.bat set_user_tags username administrator
+1.ï¿½ï¿½×°Erlang
+2.ï¿½ï¿½ï¿½ï¿½ERLANG_HOME  
+3.ï¿½ï¿½×°RabbitMQ
+4.ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ "C:\Program Files\RabbitMQ Server\rabbitmq_server-3.6.5\sbin\rabbitmq-plugins.bat" enable rabbitmq_management
+5.ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½  net stop RabbitMQ && net start RabbitMQ
+6.ï¿½ï¿½Ñ¯ï¿½Ã»ï¿½  rabbitmqctl.bat list_users
+7.ï¿½ï¿½ï¿½ï¿½ï¿½Ã»ï¿½  rabbitmqctl.bat add_user username pwd
+8.ï¿½ï¿½È¨ï¿½Ã»ï¿½  rabbitmqctl.bat set_user_tags username 
+administrator
